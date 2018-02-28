@@ -164,6 +164,10 @@ the required build and runtime dependencies installed.
 
 To build all the dependencies for all Sawtooth components, run this command:
 
+\\
+\\ ubuntu@ip-172-31-46-25:~/sawtooth/sawtooth-core$ sudo bin/build_all
+\\
+
   ```bash
     $ bin/build_all
   ```
